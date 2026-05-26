@@ -1,0 +1,3 @@
+The first chapter is all about the story between Gow and Shah...
+Git Add is the main concept here with Git Commit -m "msg" 
+Git Log - Tracks the commits in the repository 
